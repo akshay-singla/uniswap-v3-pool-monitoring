@@ -77,7 +77,8 @@ func (pool *UniswapV3Pool) fetchToken1Balance() (string, error) {
 func (pool *UniswapV3Pool) fetchTick() (string, error) {
 	// TODO:
 	// Implement the logic to fetch the price tick at block using the pool address and Ethereum client.
-
+	// Need to do some more resreach on it. 
+	
 	// Placeholder implementation, replace with actual code
 	return "500", nil
 }
